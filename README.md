@@ -21,23 +21,106 @@ I design and ship **production-grade AI systems** that combine **LLMs, Retrieval
 
 ---
 
-## Tech (Badges)
+# Technology Stack
+
+---
+
+## OCI / Oracle
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Agents-1F2A44?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-1F2A44?style=for-the-badge&logo=readthedocs&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-1F2A44?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Colab-1F2A44?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />
-<img src="https://img.shields.io/badge/GCP-0B1020?style=for-the-badge&logo=googlecloud&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Docker-0B1020?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-0B1020?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-0B1020?style=for-the-badge&logo=terraform&logoColor=7B42BC" />
+<img src="https://img.shields.io/badge/OCI-0B1020?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/OCI%20Data%20Science-0B1020?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/OCI%20AI%20Services-0B1020?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/OCI%20Object%20Storage-0B1020?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Autonomous%20Database-0B1020?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle%20Database%2023ai%20%2F%2026ai-0B1020?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle%20VECTOR%20Indexes-0B1020?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Exadata-0B1020?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle%20RAC-0B1020?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle%20AWR-0B1020?style=for-the-badge&logo=oracle&logoColor=white" />
 
 </div>
+
+---
+
+## GenAI / LLM Architecture
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Generative%20AI-1F2A44?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20Orchestration-1F2A44?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1F2A44?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-1F2A44?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20AI-1F2A44?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20Search-1F2A44?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embeddings-1F2A44?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Semantic%20Retrieval-1F2A44?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Document%20Ingestion-1F2A44?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Chunking-1F2A44?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Structured%20Extraction-1F2A44?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Observability-1F2A44?style=for-the-badge" />
+
+</div>
+
+---
+
+## Data Science / Machine Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Science-243B53?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-243B53?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Time%20Series%20Forecasting-243B53?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SARIMA-243B53?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Sentiment%20Analysis-243B53?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Recommender%20Systems-243B53?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP%20Classification-243B53?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Model%20Serving-243B53?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Inference%20Optimization-243B53?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ML%20Pipelines-243B53?style=for-the-badge" />
+
+</div>
+
+---
+
+## Cloud / Platform / DevOps
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-0B1020?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20S3-0B1020?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-0B1020?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-0B1020?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />
+<img src="https://img.shields.io/badge/Microservices-0B1020?style=for-the-badge" />
+<img src="https://img.shields.io/badge/API%20Design-0B1020?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Event--Driven%20Architecture-0B1020?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Infrastructure%20as%20Code-0B1020?style=for-the-badge&logo=terraform&logoColor=7B42BC" />
+<img src="https://img.shields.io/badge/vLLM-0B1020?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hugging%20Face-0B1020?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/OpenAI-0B1020?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</div>
+
+---
+
+## Certifications / Education
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MIT%20Advanced%20Data%20Science-243B53?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Northwestern%20Kellogg%20AI%20Applications-243B53?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OCI%20Architect%20Professional-243B53?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/OCI%20Data%20Science%20Professional-243B53?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/OCI%20Developer%20Associate-243B53?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP%20Certified-243B53?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Generative%20AI%20for%20Business-243B53?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/CCSP-243B53?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RHCE-243B53?style=for-the-badge&logo=redhat&logoColor=white" />
+
+</div>
+
 
 ---
 
