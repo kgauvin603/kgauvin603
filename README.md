@@ -13,7 +13,7 @@ I design and ship **production-grade AI systems** that combine **LLMs, Retrieval
 
 ---
 
-## TL;DR
+## Brief Summary
 - **GenAI Architectures:** RAG, tool-use, multi-agent workflows, structured outputs
 - **Data + Platform:** telemetry pipelines, enterprise data access patterns, vector search
 - **Delivery:** portable cloud designs (incl. **GCP**) + containerization + CI/CD
