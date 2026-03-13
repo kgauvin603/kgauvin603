@@ -1,7 +1,7 @@
 # Keith Gauvin
 ### AI/ML Systems Architect • Enterprise Architect • Data Platform Engineer 
 
-I design and ship **production-grade AI systems** that combine **LLMs, Retrieval-Augmented Generation (RAG), vector databases (ChromaDB), and cloud infrastructure**—with **evaluation, observability, and governance** as first-class concerns.
+I design and ship **production-grade AI systems** that combine **LLMs, Retrieval-Augmented Generation (RAG), vector databases, and cloud infrastructure**—with **evaluation, observability, and governance** as first-class concerns.
 
 <a href="https://www.linkedin.com/in/keith-gauvin-63b2684/"><b>LinkedIn</b></a> •
 <a href="mailto:keithggauvin@gmail.com"><b>keithggauvin@gmail.com</b></a> •
