@@ -118,6 +118,7 @@ I design and ship **production-grade AI systems** that combine **LLMs, Retrieval
 <img src="https://img.shields.io/badge/AWS%20Generative%20AI%20for%20Business-243B53?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/CCSP-243B53?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RHCE-243B53?style=for-the-badge&logo=redhat&logoColor=white" />
+<img src="https://img.shields.io/badge/CCFA-R (Claude Architect)-243B53?style=for-the-badge&logo=redhat&logoColor=white" />
 
 </div>
 
